@@ -306,7 +306,7 @@ if (process.env.NODE_ENV === 'development') {
 
 - A partir dai podemos utilizar 'console.tron.log()' para utilizar o reactotron, mas a parte do redux ainda não esta integrada.
 
-4. Para fazer isso no arquivo 'index' na pasta store adicionamos mais algumasa configurações, onde verificarmos se estamos em ambiente ou não e armazenamos na constante 'enhancer', passando ela como parametro no 'createStore'
+4. Para fazer isso no arquivo 'index' na pasta store adicionamos mais algumas configurações, onde verificarmos se estamos em ambiente ou não e armazenamos na constante 'enhancer', passando ela como parametro no 'createStore'
 
 ```js
 import { createStore } from 'redux';
