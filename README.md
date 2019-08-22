@@ -2,10 +2,10 @@
 
 - Como rodar:
 
-Carregar as dependências
+Carrega as dependências
 
 > yarn
 
-Rodar o projeto
+Roda o projeto
 
 > yarn start
